@@ -1,5 +1,5 @@
 # ds202-zhiaohong-toh
-code to an academic advisor
+ode to an academic advisor
 
 Happy:
 - More time to relax and improve my mental health.
