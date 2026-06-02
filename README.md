@@ -10,4 +10,4 @@ Happy:
 Crappy:
 - Develop projects to work on.
 - Practice more on the skills I learnt so far.
-- Very hot weather outside.
+- Very hot weather outside
